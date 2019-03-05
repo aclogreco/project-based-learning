@@ -40,6 +40,11 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [How to Write an Emulator (CHIP-8 interpreter)](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
 - [Beginning Game Programming with C++ and SDL](http://lazyfoo.net/tutorials/SDL/)
 - [Implementing a Key-Value Store](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
+- Tiny 3D graphics projects
+  - [Tiny Renderer or how OpenGL works: software rendering in 500 lines of code](https://github.com/ssloy/tinyrenderer/wiki)
+  - [Understandable RayTracing in 256 lines of bare C++](https://github.com/ssloy/tinyraytracer/wiki)
+  - [KABOOM! in 180 lines of bare C++](https://github.com/ssloy/tinykaboom/wiki)
+  - [486 lines of C++: old-school FPS in a weekend](https://github.com/ssloy/tinyraycaster/wiki)
 - Writing a minimal x86-64 JIT compiler in C++
   - [Part 1](https://solarianprogrammer.com/2018/01/10/writing-minimal-x86-64-jit-compiler-cpp/)
   - [Part 2](https://solarianprogrammer.com/2018/01/12/writing-minimal-x86-64-jit-compiler-cpp-part-2/)
@@ -192,6 +197,14 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build an Appointment Scheduler](https://hackernoon.com/build-an-appointment-scheduler-using-react-twilio-and-cosmic-js-95377f6d1040)
 - [Build A Chat App with Sentiment Analysis](https://codeburst.io/build-a-chat-app-with-sentiment-analysis-using-next-js-c43ebf3ea643)
 - [Build A Full Stack Web Application Setup](https://hackernoon.com/full-stack-web-application-using-react-node-js-express-and-webpack-97dbd5b9d708)
+- Build A Random Quote Machine
+  - [Part 1](https://www.youtube.com/watch?v=3QngsWA9IEE)
+  - [Part 2](https://www.youtube.com/watch?v=XnoTmO06OYo)
+  - [Part 3](https://www.youtube.com/watch?v=us51Jne67_I)
+  - [Part 4](https://www.youtube.com/watch?v=iZx7hqHb5MU)
+  - [Part 5](https://www.youtube.com/watch?v=lpba9vBqXl0)
+  - [Part 6](https://www.youtube.com/watch?v=Jvp8j6zrFHE)
+  - [Part 7](https://www.youtube.com/watch?v=M_hFfrN8_PQ)
 
 #### Angular:
 
@@ -516,6 +529,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - Rust in Detail: Writing Scalable Chat Service from Scratch
   - [Part 1: Implementing WebSocket. Introduction.](https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html)
   - [Part 2: Sending and Receiving Messages](https://nbaksalyar.github.io/2015/11/09/rust-in-detail-2.html)
+- [Writing a Rust Roguelike for the Desktop and the Web](https://aimlesslygoingforward.com/blog/2019/02/09/writing-a-rust-roguelike-for-the-desktop-and-the-web/)
 
 ## Swift:
 
@@ -531,6 +545,6 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Egghead.io](http://www.egghead.io/)
 - [Michael Herman's Blog](http://mherman.org/)
 - [Thinkster.io](http://thinkster.io)
-- [C Project Based Tutorials](https://www.reddit.com/r/C_Programming/comments/872rlt/c_project_based_tutorials/)
+- [C Project Based Tutorials](https://github.com/rby90/Project-Based-Tutorials-in-C)
 - [Enlight](https://enlight.nyc/)
 - [Hack Club Workshops](https://hackclub.com/workshops/)
